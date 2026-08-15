@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-q46n2z.indocuansite.online/sitemap.xml
